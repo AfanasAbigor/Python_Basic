@@ -1,5 +1,11 @@
 list = input("Enter Numbers: ").split()
 
+"""
+print(max(list))
+print(min(list))
+
+"""
+
 n = int(len(list))
 
 temp = 0
